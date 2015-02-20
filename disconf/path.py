@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created by Zoltan Bozoky on 2014.05.14.
+Under GPL licence.
 
 Purpose:
 ========
